@@ -1,4 +1,5 @@
 //A collaborative project by honorato0 and 0xDBJ
+//Working on IOS 15.8.4 and rootless Dopamine
 console.log("[*] Starting iOS SSL Pinning Bypass Script");
 
 // // Helper function to safely get a pointer to a function
