@@ -1,4 +1,4 @@
-//A collaborative project by honorato0 and 0xDBJ
+//A collaborative project by honorato0 and 0xDBJ (https://www.linkedin.com/in/d%C3%A9cio-brand%C3%A3o-792321116/)
 //Working on IOS 15.8.4 and rootless Dopamine and Frida-Server 17.0.7
 console.log("[*] Starting iOS SSL Pinning Bypass Script");
 
